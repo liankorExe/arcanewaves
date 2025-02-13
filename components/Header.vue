@@ -9,6 +9,7 @@
                 <a href="#description">Description</a>
                 <a href="#sorts">Sorts</a>
                 <a href="#touches">Touches</a>
+                <a href="#shop">Shop</a>
             </div>
         </div>
     </nav>

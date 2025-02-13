@@ -53,6 +53,9 @@
       <section id="touches" class="scroll-mt-10">
         <Touches />
       </section>
+      <section id="shop" class="scroll-mt-10">
+        <Shop />
+      </section>
 
     </div>
   </div>
