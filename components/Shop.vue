@@ -13,11 +13,13 @@
 
             <div class="w-full md:w-1/2 space-y-4 bg-white/5 p-6 rounded-lg shadow-md">
                 <p class="text-lg text-gray-200 leading-relaxed">
-                    Dans le shop, vous pouvez acheter de <span class="text-blue-300 font-semibold">nouveaux sorts</span> pour <span class="text-blue-300 font-semibold">améliorer</span> votre personnage. 
-                    Utilisez les pièces obtenues en combattant des ennemis pour <span class="text-blue-300 font-semibold">débloquer de puissantes capacités</span> !
-                </p>
-                <p class="text-lg text-gray-200 leading-relaxed">
-                    Chaque sort a son propre coût. Gérez bien vos ressources pour devenir plus fort !
+                    <span class="text-blue-300 font-semibold">Comment ça marche ?</span>
+                    <ul class="list-disc list-inside text-gray-300 mt-2 space-y-1">
+                        <li>Utiliser la touche <UKbd>B</UKbd> pour ouvrir la boutique.</li>
+                        <li>Cliquez sur un sort pour afficher ses détails à droite.</li>
+                        <li>Si vous avez assez de pièces, cliquez sur le <span class="text-green-400 font-semibold">bouton vert</span> pour l'acheter.</li>
+                        <li>Les sorts achetés apparaîtront dans votre inventaire et pourront être utilisés.</li>
+                    </ul>
                 </p>
             </div>
         </div>

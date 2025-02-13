@@ -31,7 +31,8 @@ const controls = ref([
     { touches: ["3", '"'], action: "Sélectionner le sort 3" },
     { touches: ["4", "'"], action: "Sélectionner le sort 4" },
     { touches: ["5", "("], action: "Sélectionner le sort 5" },
-    { touches: ["E"], action: "Utiliser le sort sélectionné" }
+    { touches: ["E"], action: "Utiliser le sort sélectionné" },
+    { touches: ["B"], action: "Ouvrir la boutique" }
 ]);
 
 const columns = [
