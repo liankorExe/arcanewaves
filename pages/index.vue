@@ -56,6 +56,8 @@
       <section id="shop" class="scroll-mt-10">
         <Shop />
       </section>
+      
+      <Footer/>
 
     </div>
   </div>
