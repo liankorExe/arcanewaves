@@ -53,7 +53,6 @@ const sorts = ref([
     { nom: "Onde de Choc", image: "/ondedechoc2.png", description: "Crée une onde qui repousse et endommage les ennemis." },
     { nom: "Regen Mana", image: "/regenmana2.png", description: "Restaure progressivement votre mana sur une courte durée." },
     { nom: "Bientôt...", image: "/soon.png", description: "Un nouveau sort sera bientôt disponible." },
-    { nom: "Bientôt...", image: "/soon.png", description: "Un nouveau sort sera bientôt disponible." }
 ]);
 
 const isOpen = ref(false);
