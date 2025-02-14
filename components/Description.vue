@@ -11,20 +11,16 @@
             <span class="text-blue-400 font-semibold">Légion du Néant</span>, menée par le redoutable  
             <span class="text-blue-300 font-semibold">Vaelgor le Déchu</span>.  
             Les cités sont tombées, les royaumes ont plié, et les derniers survivants vivent dans la peur.  
-            <br /><br />
-            Seul un dernier espoir subsiste : <span class="text-blue-300 font-semibold">Arcane Valcrest</span>.  
+            <br />
+            Seul un dernier espoir subsiste : <span class="text-blue-300 font-semibold">Arcane Waves</span>.  
             Dernier héritier des <span class="text-blue-400 font-semibold">Gardiens d'Aeloria</span>,  
             il est le seul encore capable de brandir la <span class="text-blue-300 font-semibold">Flamme d’Æthéris</span>,  
             une puissance ancienne capable de repousser les ombres.  
-            <br /><br />
+            <br />
             Arcane ne peut compter que sur lui-même. Son périple commence dans  
             <span class="text-blue-400 font-semibold">les Terres Maudites de Rhazkar</span>,  
-            un désert hanté par des créatures cauchemardesques. Il devra ensuite traverser  
-            <span class="text-blue-300 font-semibold">les Ruines d’Æltharion</span>,  
-            où dorment les vestiges d’un passé oublié, et enfin atteindre  
-            <span class="text-blue-400 font-semibold">la Citadelle de l’Ombre</span>,  
-            repaire de Vaelgor lui-même.  
-            <br /><br />
+            une plaine hanté par des créatures cauchemardesques.
+            <br />
             Chaque jour est un combat. Chaque pas est une lutte. Arcane sait que personne ne viendra l’aider.  
             S’il échoue, <span class="text-blue-300 font-semibold">Nytheria sombrera à jamais</span>.  
         </p>
